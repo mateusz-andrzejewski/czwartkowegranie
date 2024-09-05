@@ -318,6 +318,36 @@ export class Players {
         position: "A",
         skillRate: "3",
       },
+      {
+        name: "kamil kwiecień",
+        position: "A",
+        skillRate: "3",
+      },
+      {
+        name: "ra dek",
+        position: "A",
+        skillRate: "2",
+      },
+      {
+        name: "jakub mikołajczyk",
+        position: "A",
+        skillRate: "3",
+      },
+      {
+        name: "tymoteusz hołyński",
+        position: "A",
+        skillRate: "2",
+      },
+      {
+        name: "marek bartecki",
+        position: "D",
+        skillRate: "2",
+      },
+      {
+        name: "bartek wieloch",
+        position: "A",
+        skillRate: "2",
+      },
     ].sort((a, b) => a.name.localeCompare(b.name));
 
     this.update = update; //ew us
